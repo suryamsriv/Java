@@ -27,7 +27,7 @@
  * }
  */
 
-class Solution {
+class AddTwoNumbersLL {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode node = new ListNode();
         int carry = 0;
